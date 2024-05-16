@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=lkm2449's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-### 안녕하세요! 
-### 백엔드 개발자를 꿈꾸는 이강민의 깃허브입니다!👋
+### 안녕하세요! 👋
+### 백엔드 개발자를 꿈꾸는 이강민의 깃허브입니다!
 <hr/>
 
 <br>
@@ -30,6 +30,32 @@
 
 ## 함께할개(유기견 입양 및 애견용품 판매 쇼핑몰
 
+### 개발 환경
+<div align=center> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">  
+  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+  <img src="https://img.shields.io/badge/filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white">
+  <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <br>
+</div>
+
+### 시스템 구성도
+![시스템구성도](https://github.com/lkm2449/lkm2449/assets/82378924/feb0409a-3a76-424e-9a75-ca9b4eb63c37)
+
 ### <a href="https://github.com/lkm2449/kr.co.himedia.sn.ecommerce5th.mercury.front">front</a>
 ![front](https://github.com/lkm2449/lkm2449/assets/82378924/99f49e0a-a6fe-4e43-973e-d8cab9784422)
 
@@ -44,19 +70,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkm2449&layout=compact)
 ![lkm2449's github stats](https://github-readme-stats.vercel.app/api?username=lkm2449&show_icons=true)
 
-
-
-<!--
-**lkm2449/lkm2449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
