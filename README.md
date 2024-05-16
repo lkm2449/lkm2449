@@ -56,6 +56,9 @@
 ### 시스템 구성도
 ![시스템구성도](https://github.com/lkm2449/lkm2449/assets/82378924/feb0409a-3a76-424e-9a75-ca9b4eb63c37)
 
+### ERD
+![erd](https://github.com/lkm2449/lkm2449/assets/82378924/017995e7-9375-4300-8663-d682b23000d7)
+
 ### <a href="https://github.com/lkm2449/kr.co.himedia.sn.ecommerce5th.mercury.front">front</a>
 ![front](https://github.com/lkm2449/lkm2449/assets/82378924/99f49e0a-a6fe-4e43-973e-d8cab9784422)
 
